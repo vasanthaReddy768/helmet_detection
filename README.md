@@ -3,19 +3,19 @@
 This project detects whether a person is wearing a helmet or not using YOLOv8 and OpenCV.  
 It can be used for traffic surveillance, rider safety monitoring, and smart city applications.
 
-## 🚀 Features Dataset
+##  Features Dataset
 - Detects helmets in images and videos
 - YOLOv8 trained on custom dataset
 - Real-time detection using webcam or video file
 - Outputs annotated video with bounding boxes
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python 3
 - YOLOv8 (Ultralytics)
 - OpenCV
 - NumPy
 
-## ⚙️ Installation
+##  Installation
 Clone the repository and install dependencies:
 
 ```bash
@@ -33,7 +33,7 @@ Label files are stored in `train/labels/`.
 
 You can prepare your dataset using **LabelImg** or **Roboflow**.
 
-## ▶️ Usage
+##  Usage
 
 ### Run detection on an image:
 ```bash
