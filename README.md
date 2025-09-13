@@ -46,3 +46,4 @@ Example detection:
 (Input image → Output with bounding boxes and labels)
 ![image alt](https://github.com/vasanthaReddy768/helmet_detection/blob/5dc55e3e7967bcea3d621f3902c8ca35efc0271d/Screenshot%202025-09-13%20192732.png)
 
+![image_alt](https://github.com/vasanthaReddy768/helmet_detection/blob/e72142400cb21fa774d2d2850aab0f01a1de1268/Screenshot%202025-09-13%20192843.png)
