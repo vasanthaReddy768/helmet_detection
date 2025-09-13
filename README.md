@@ -46,6 +46,4 @@ Example detection:
 
 (Input image → Output with bounding boxes and labels)
 
-<img width="899" height="419" alt="Screenshot 2025-09-13 202750" src="https://github.com/user-attachments/assets/9455f5a9-00ff-4d69-a99c-68e077b30139" />
-<img width="911" height="503" alt="Screenshot 2025-09-13 192843" src="https://github.com/user-attachments/assets/d413b8b8-1139-40b7-8078-b8084c2b8773" />
 
